@@ -1,0 +1,16 @@
+# CyberSense
+
+> Gamified cyber awareness platform — spot scams, train your instincts, and learn safe digital practices through interactive simulations.
+
+CyberSense is a free, no-login web app that turns cybersecurity training into hands-on practice. Users play through realistic scam scenarios (phishing, OTP fraud, UPI fraud, QR code scams, deepfakes, social engineering), classify suspicious messages, and earn a Cyber Awareness Score plus achievement badges.
+
+## Pages
+
+- [Home](/): What CyberSense is and how to get started.
+- [Cyber Decision Simulator](/simulator): Interactive scenarios with instant feedback and prevention tips.
+- [Scam Radar](/scam-radar): Classify real-world messages as Safe, Suspicious, or Scam.
+- [Threat Library](/threat-library): Searchable index of phishing, malware, ransomware, UPI fraud, deepfakes, and more.
+- [Safety Tips](/safety-tips): Daily cyber hygiene — passwords, 2FA, safe payments, mobile security.
+- [Dashboard](/dashboard): Personal awareness score, badges, and unlocked achievements.
+- [About](/about): Mission, vision, and what CyberSense offers.
+- [Contact](/contact): Get in touch with the team.
